@@ -20,7 +20,7 @@ let soma = 0
 let quantidade = 0
 for(contador = valor1; contador <= valor2; contador++ ){// <= vai até o valor2
     soma += contador
-    quantidade++
+    quantidade++ // para contar a quantidade de vezes  para dividir dps lá embaixo 
 }
 
 media = soma/quantidade
